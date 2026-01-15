@@ -40,3 +40,16 @@ Hotel-Shubh/
 │   └── (all website images)
 │
 └── README.md
+
+# 🚀 How to Run the Project
+
+1. Download or clone the repository
+
+git clone https://github.com/your-username/your-repo-name.git
+
+
+2. Open the folder
+
+3. Double-click home.html
+
+4. Enjoy the website in your browser 🎉
