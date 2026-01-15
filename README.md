@@ -55,7 +55,7 @@ Hotel-Shubh/
 
 1. Download or clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/VIpin04345
 
 
 2. Open the folder
