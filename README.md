@@ -104,3 +104,7 @@ If you’d like to improve this project:
 3. Make changes
 
 4. Submit a pull request
+
+# 📄 License
+
+This project is open-source and available under the MIT License.
