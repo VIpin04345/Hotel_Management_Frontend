@@ -27,19 +27,29 @@ This project showcases a complete multi-page website including Home, About, Blog
 # 📂 Project Structure
 Hotel-Shubh/
 │
-├── home.html
-├── about.html
-├── blog.html
-├── gallery.html
-├── contact.html
+├── home.html..
+
+├── about.html..
+
+├── blog.html..
+
+├── gallery.html..
+
+├── contact.html..
+
 │
-├── css/
-│   └── style.css
+├── css/..
+
+│   └── style.css..
+
 │
-├── images/
-│   └── (all website images)
+├── images/..
+
+│   └── (all website images)..
+
 │
-└── README.md
+└── README.md..
+
 
 # 🚀 How to Run the Project
 
