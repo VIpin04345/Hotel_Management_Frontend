@@ -57,17 +57,17 @@ git clone https://github.com/your-username/your-repo-name.git
 
 # 🛠️ Technologies Used
 
--- HTML5
+- HTML5
 
--- CSS3
+- CSS3
 
--- Bootstrap 5
+- Bootstrap 5
 
--- JavaScript
+- JavaScript
 
--- Font Awesome
+- Font Awesome
 
--- Google Fonts
+- Google Fonts
 
 # 🎯 Future Improvements
 
