@@ -90,3 +90,17 @@ git clone https://github.com/your-username/your-repo-name.git
 * Add payment gateway
 
 * Improve SEO & performance
+
+
+# 🤝 Contributing
+
+Contributions are welcome!
+If you’d like to improve this project:
+
+1. Fork the repo
+
+2. Create a new branch
+
+3. Make changes
+
+4. Submit a pull request
