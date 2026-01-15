@@ -22,3 +22,21 @@ This project showcases a complete multi-page website including Home, About, Blog
 ✅ Font Awesome icons
 
 ✅ Google Fonts integration
+
+
+# 📂 Project Structure
+Hotel-Shubh/
+│
+├── home.html
+├── about.html
+├── blog.html
+├── gallery.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── images/
+│   └── (all website images)
+│
+└── README.md
