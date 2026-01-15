@@ -108,3 +108,9 @@ If you’d like to improve this project:
 # 📄 License
 
 This project is open-source and available under the MIT License.
+
+# 🙋‍♂️ Author
+
+Vipin Yadav
+Aspiring Software Engineer 🚀
+Feel free to connect and collaborate!
