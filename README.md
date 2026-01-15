@@ -53,3 +53,18 @@ git clone https://github.com/your-username/your-repo-name.git
 3. Double-click home.html
 
 4. Enjoy the website in your browser 🎉
+
+
+# 🛠️ Technologies Used
+
+-- HTML5
+
+-- CSS3
+
+-- Bootstrap 5
+
+-- JavaScript
+
+-- Font Awesome
+
+-- Google Fonts
