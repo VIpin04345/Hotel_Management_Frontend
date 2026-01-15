@@ -68,3 +68,15 @@ git clone https://github.com/your-username/your-repo-name.git
 -- Font Awesome
 
 -- Google Fonts
+
+# 🎯 Future Improvements
+
+* Add backend for booking system
+
+* Add database integration
+
+* Add admin panel
+
+* Add payment gateway
+
+* Improve SEO & performance
