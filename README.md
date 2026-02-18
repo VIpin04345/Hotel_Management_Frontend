@@ -1,5 +1,4 @@
 # Hotel_Management_Fronend
-This is only frontend based project.
 # 🏨 Hotel VIP – Resort & Hotel Website
 
 A modern, responsive hotel & resort website built using HTML, CSS, Bootstrap, and JavaScript.
