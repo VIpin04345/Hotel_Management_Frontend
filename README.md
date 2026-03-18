@@ -96,13 +96,13 @@ git clone https://github.com/VIpin04345
 Contributions are welcome!
 If you’d like to improve this project:
 
-1. Fork the repo
+1. Fork the repo.
 
-2. Create a new branch
+2. Create a new branch.
 
-3. Make changes
+3. Make changes.
 
-4. Submit a pull request
+4. Submit a pull request.
 
 # 📄 License
 
