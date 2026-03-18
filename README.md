@@ -6,21 +6,21 @@ This project showcases a complete multi-page website including Home, About, Blog
 
 # 🔥 Features
 
-✅ Fully responsive design
+✅ Fully responsive design.
 
-✅ Bootstrap 5 UI components
+✅ Bootstrap 5 UI components.
 
-✅ Image slider / carousel
+✅ Image slider / carousel.
 
-✅ Booking form UI
+✅ Booking form UI.
 
-✅ Gallery & blog pages
+✅ Gallery & blog pages.
 
-✅ Clean and structured code
+✅ Clean and structured code.
 
-✅ Font Awesome icons
+✅ Font Awesome icons.
 
-✅ Google Fonts integration
+✅ Google Fonts integration.
 
 
 # 📂 Project Structure
