@@ -2,7 +2,7 @@
 # 🏨 Hotel VIP – Resort & Hotel Website
 
 A modern, responsive hotel & resort website built using HTML, CSS, Bootstrap, and JavaScript.
-This project showcases a complete multi-page website including Home, About, Blog, Gallery, and Contact pages. where i can handle only front end .
+This project showcases a complete multi-page website including Home, About, Blog, Gallery, and Contact pages. where i can handle only front end because this is only front end based project.
 
 # 🔥 Features
 
